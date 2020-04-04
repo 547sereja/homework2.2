@@ -6,3 +6,8 @@
 * Низкая цена
 
 ![Logo](logo.png)
+
+## Начало работы
+1. Создать папку
+1. Открыть папку в терминале
+1. ![screenshot](https://github.com/547sereja/NeuroStartUp/blob/master/show_link.png)
