@@ -10,4 +10,20 @@
 ## Начало работы
 1. Создать папку
 1. Открыть папку в терминале
-1. ![screenshot](https://github.com/547sereja/NeuroStartUp/blob/master/show_link.png)
+1. Устанавливаем git
+    1. git config --global user.name "Ваше имя"
+    1. git config --global user.email "Ваш имейл"
+1. Копируем ссылку![screenshot](https://github.com/547sereja/NeuroStartUp/blob/master/show_link.png)
+1. Пишем команду git clone (через пробел добавляем ссылку)
+
+## Что для этого нужно
+* Laptop
+* Browser
+
+### Лицензия
+Условия лицензии
+* Условие 1
+* Условие 2
+* Условие 3
+* Условие 4
+* Условие 5
