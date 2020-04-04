@@ -11,8 +11,8 @@
 1. Создать папку
 1. Открыть папку в терминале
 1. Устанавливаем git
-    1. git config --global user.name "Ваше имя"
-    1. git config --global user.email "Ваш имейл"
+    * git config --global user.name "Ваше имя"
+    * git config --global user.email "Ваш имейл"
 1. Копируем ссылку![screenshot](https://github.com/547sereja/NeuroStartUp/blob/master/show_link.png)
 1. Пишем команду git clone (через пробел добавляем ссылку)
 
